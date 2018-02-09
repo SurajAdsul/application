@@ -8,6 +8,12 @@ Permission, Role, User and Job model has been created.
 
 Boot method has been changed to check assigned permisson for the user in Providers\AuthServiceProvider class.
 
+**Sequel Pro SQL dump file**
+
+https://github.com/SurajAdsul/application/blob/master/public/testing_2018-02-09.sql
+
+
+
 
 **ScreenShots once appropriate permissions has been added in DB.**
 
